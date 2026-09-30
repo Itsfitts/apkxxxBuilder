@@ -11,7 +11,7 @@
 
 * 1.通用型yml文件，支持在当前仓库构建apk，也可选择在仓库的子目录中构建 <a href=".github/workflows/build_currentRepo.yml">file</a>
 
-* 2.自动构建并上传文件到release页面 <a href=".github/workflows/release.yml">file</a>
+* 2.一键发布release <a href=".github/workflows/release.yml">file</a>
 
 * 3.教程: 可任意自行签名apk文件 <a href="HowToSignMyApk/">file</a>
 
